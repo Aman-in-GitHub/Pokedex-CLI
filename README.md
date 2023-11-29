@@ -4,7 +4,7 @@ Pokédex CLI is a fun and interactive node command-line tool that brings the Pok
 
 ## Installation
 
-Ensure you have Node.js installed on your system. Then, install PokédexCLI globally using npm:
+Ensure you have Node.js installed on your system. Then, install Pokédex CLI globally using npm:
 
 ```bash
 npm install -g pokedex-cli
