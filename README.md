@@ -12,7 +12,7 @@ npm install -g
 
 ## Dependencies
 
-PokeCLI relies on the following npm packages:
+Pokédex CLI relies on the following npm packages:
 
 - **[yargs](https://www.npmjs.com/package/yargs):** For parsing command-line arguments.
 - **[chalk](https://www.npmjs.com/package/chalk):** For adding styling to the console output.
